@@ -4,7 +4,7 @@ public class ReminderVisitor extends NodeVisitor {
 
 	private ClassListProduct classListProduct;
 
-	private CLassProductList cLassProductList;
+	private ClassProductList cLassProductList;
 
 	public void visitProduct(Product product) {
 

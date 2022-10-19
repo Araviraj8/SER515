@@ -2,7 +2,7 @@ public class ProductIterator {
 
 	private ClassListProduct classListProduct;
 
-	private CLassProductList cLassProductList;
+	private ClassProductList cLassProductList;
 
 	public boolean hasNext() {
 		return false;

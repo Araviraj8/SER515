@@ -1,4 +1,4 @@
-public class CLassProductList {
+public class ClassProductList {
 
 	private Product[] product;
 

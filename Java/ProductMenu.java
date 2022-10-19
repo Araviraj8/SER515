@@ -1,8 +1,7 @@
 public interface ProductMenu {
 
-	private Person person;
+	//private Person person;
 
-	private Person person;
 
 	public void showMenu();
 

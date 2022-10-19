@@ -4,6 +4,6 @@ public class Product {
 
 	private Trading trading;
 
-	private CLassProductList cLassProductList;
+	private ClassProductList cLassProductList;
 
 }

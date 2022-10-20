@@ -1,6 +1,5 @@
 public class ProductIterator {
 
-	private ClassListProduct classListProduct;
 
 	private ClassProductList cLassProductList;
 
